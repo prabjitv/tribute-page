@@ -1,0 +1,12 @@
+
+#img-div {
+  margin: 0px auto;
+  display: grid;
+  background-color: green;
+}
+
+#image {
+  margin: 0px auto;
+  max-width: 100%;
+  height: auto;
+}
